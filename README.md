@@ -2,7 +2,7 @@
 
 ## 📊 Project Summary
 
-This project analyzes the Pima Indians Diabetes dataset to identify patterns and factors associated with diabetes risk.
+This project, which was realised as part of my MIT's Data Science certification, analyzes the Pima Indians Diabetes dataset to identify patterns and factors associated with diabetes risk.
 
 The objective is to explore how medical and demographic variables (such as glucose level, BMI, age, and insulin) relate to the likelihood of diabetes, using a structured data analysis approach.
 
