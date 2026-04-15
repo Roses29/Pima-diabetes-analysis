@@ -1,3 +1,4 @@
+🌍 [Lire en Français](README_FR.md) | 📓 [View PDF](./Pima-Diabetes-Analysis-Robin-Rubangura.ipynb)
 
 ## 📊 Project Summary
 
